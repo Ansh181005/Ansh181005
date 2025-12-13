@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Mangrove-watch,<br>I'm currently learning full-stack development. <br>Ask me anything about AI and development.<br> 
+I'm currently learning full-stack development. <br>Ask me anything about AI and development.<br> 
 
 
 ## 🌐 Socials:
