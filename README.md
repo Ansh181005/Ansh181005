@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning full-stack development. <br>Ask me anything about AI and development.<br> 
+Full-Stack Developer | Aspiring AI Engineer <br>Ask me anything about AI and development.<br> 
 
 
 ## 🌐 Socials:
