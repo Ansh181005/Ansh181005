@@ -1,87 +1,93 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ansh%20Patel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Aspiring%20AI%20Engineer&descAlignY=57&descSize=20&descColor=a5f3fc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Ansh%20Patel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=57&descSize=20&descColor=a5f3fc"/>
 
-<!-- TYPING ANIMATION & SPOTIFY -->
+<!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=A5F3FC&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%F0%9F%92%BB;Aspiring+AI+Engineer+%F0%9F%A4%96;Building+Scalable+Web+Applications;Always+Learning+%26+Exploring+New+Tech" alt="typing"/>
-  
-  <br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=A5F3FC&center=true&vCenter=true&width=640&lines=Building+scalable+full-stack+applications;Integrating+AI+into+real-world+solutions;React+%7C+Node.js+%7C+Next.js+%7C+Java;Open+to+SDE+%26+Full-Stack+Roles+%F0%9F%9A%80" alt="typing"/>
 </div>
-
-<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ansh181005&color=0891b2&style=flat-square&label=Profile+Views"/>
   &nbsp;
-  <a href="https://linkedin.com/in/Ansh-Patel1810"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin"/></a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Software%20Development-22c55e?style=flat-square"/>
   &nbsp;
-  <a href="mailto:patelansh1810@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-D14836?style=flat-square&logo=gmail"/></a>
+  <img src="https://img.shields.io/badge/Building-Orbit%20%F0%9F%8C%90-a855f7?style=flat-square"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-> *"Bridging the gap between beautiful user interfaces and intelligent backend systems."*
+> *"Building scalable and real-time applications with a focus on seamless user experiences and AI integrations."*
 
-I'm a passionate **Full-Stack Developer** and an **Aspiring AI Engineer**. I love building applications that are not only visually stunning but also technically robust and smart. 
+I’m a **B.Tech ICT student** from Ahmedabad with hands-on experience in full-stack software development and AI-integrated applications through internships and academic projects. I'm actively seeking a Software Developer role to apply my problem-solving and programming skills.
 
-```javascript
-const Ansh = {
-    code: ["Javascript", "Python", "C++", "Java", "PHP", "TypeScript"],
-    technologies: {
-        frontend: ["React", "Next.js", "TailwindCSS", "Three.js"],
-        backend: ["Node.js", "Express", "FastAPI", "Laravel"],
-        databases: ["PostgreSQL", "MongoDB", "Supabase", "Firebase"]
-    },
-    learning: ["Machine Learning", "Neural Networks", "Deep Learning"],
-    askMeAbout: ["Web Dev", "Tech Stack Choices", "AI basics"],
-    contact: "patelansh1810@gmail.com"
-};
+I work at the intersection of **Web Development, Databases, and AI technologies** — turning ideas into production-ready systems.
+
+```python
+class AnshPatel:
+    location   = "Ahmedabad, Gujarat, India 🇮🇳"
+    education  = "B.Tech ICT @ Adani University | CGPA: 8.07"
+    experience = ["Software Developer Intern @ Dolphin Web Solution", "AI & Web Dev Intern @ DigiXLT"]
+    building   = "Orbit — Project Management Platform (Next.js + Node.js)"
+    exploring  = ["Full-Stack Architecture", "AI Integrations", "Real-time Systems"]
+    skills     = ["Next.js", "React", "Node.js", "Java", "Python", "SQL"]
+    contact    = "ansh.patel.181005@gmail.com"
 ```
 
 ---
 
-## 🛠️ My Tech Stack
+## 🚀 What I’m Building
 
-*(Organized for better readability)*
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<details>
-<summary><b>Languages & Core</b></summary>
-<br>
+### 🌐 Orbit
+*Real-time Project Management Platform*
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-</details>
+Collaborative platform with multi-tenant workspaces, Clerk authentication, interactive Kanban boards, and asynchronous email workflows.
 
-<details>
-<summary><b>Frontend</b></summary>
-<br>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-</details>
+🟢 **Active Development**
 
-<details>
-<summary><b>Backend & Database</b></summary>
-<br>
+</td>
+<td valign="top" width="50%">
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-</details>
+### 🤖 AIForge
+*AI-Powered Educational Platform*
 
-<details>
-<summary><b>AI / ML & Data</b></summary>
-<br>
+Converts PDF study materials into AI-generated summaries, flashcards, and quizzes using Google Gemini AI and JWT authentication.
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-</details>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 
----
+🟢 **Completed**
 
-## ⏱️ Coding Activity
-<!--START_SECTION:waka-->
-<!-- Wakatime stats will be inserted here automatically -->
-<!--END_SECTION:waka-->
+</td>
+</tr>
+</table>
 
 ---
+
+## 🛠️ Tech Toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
 ## 📈 GitHub Stats
 
