@@ -1,6 +1,13 @@
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ansh%20Patel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Aspiring%20AI%20Engineer&descAlignY=57&descSize=20&descColor=a5f3fc"/>
 
+<!-- TYPING ANIMATION & SPOTIFY -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=A5F3FC&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%F0%9F%92%BB;Aspiring+AI+Engineer+%F0%9F%A4%96;Building+Scalable+Web+Applications;Always+Learning+%26+Exploring+New+Tech" alt="typing"/>
+  
+  <br><br>
+</div>
+
 <br>
 
 <p align="center">
