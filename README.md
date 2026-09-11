@@ -76,13 +76,6 @@ const Ansh = {
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- The GitHub action will automatically populate your latest blog posts here -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## ⏱️ Coding Activity
 <!--START_SECTION:waka-->
 <!-- Wakatime stats will be inserted here automatically -->
