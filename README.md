@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Ansh%20Patel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=57&descSize=20&descColor=a5f3fc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Ansh%20Patel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=57&descSize=20&descColor=a5f3fc"/>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
@@ -89,22 +89,18 @@ Converts PDF study materials into AI-generated summaries, flashcards, and quizze
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ansh181005&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ansh181005&theme=radical&hide_border=false" height="150" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Ansh181005&theme=radical&hide_border=false" height="150" alt="Streak"/>
 </div>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh181005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Langs"/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="150" alt="Quotes"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ansh181005&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
